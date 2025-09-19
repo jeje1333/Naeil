@@ -84,9 +84,9 @@ DB에 있는 메뉴 개수만큼 판넬을 만드는 함수를 개발하였습�
 개발 속도 및 코드 가독성을 챙기고 DB만 관리하면 판넬은 자동으로 생성되니 유지보수성을 챙길 수 있었습니다.  
 
 ## 프로젝트 관련 자료
-[발표 PPT](https://docs.google.com/presentation/d/1p_OsoSNuF4TKWMCrN96TpJ6Qjzo4gyFD)
-[시연 동영상](https://drive.google.com/drive/folders/1Bnl7pMzE9mVtjxdJEZ7Ls_EgKEgRhBSn)
-[프로젝트 ERD](https://drive.google.com/drive/folders/1Bnl7pMzE9mVtjxdJEZ7Ls_EgKEgRhBSn)
-[화면 설계 및 기능 명세서](https://drive.google.com/drive/folders/1Bnl7pMzE9mVtjxdJEZ7Ls_EgKEgRhBSn)
-[프로젝트 개발 계획서](https://docs.google.com/document/d/1-Eby-sEILRy170nCE783xbKEqkqOgwbw)
+[발표 PPT](https://docs.google.com/presentation/d/1p_OsoSNuF4TKWMCrN96TpJ6Qjzo4gyFD)  
+[시연 동영상](https://drive.google.com/drive/folders/1Bnl7pMzE9mVtjxdJEZ7Ls_EgKEgRhBSn)  
+[프로젝트 ERD](https://drive.google.com/drive/folders/1Bnl7pMzE9mVtjxdJEZ7Ls_EgKEgRhBSn)  
+[화면 설계 및 기능 명세서](https://drive.google.com/drive/folders/1Bnl7pMzE9mVtjxdJEZ7Ls_EgKEgRhBSn)  
+[프로젝트 개발 계획서](https://docs.google.com/document/d/1-Eby-sEILRy170nCE783xbKEqkqOgwbw)  
  
