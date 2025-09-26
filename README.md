@@ -85,8 +85,8 @@ DB에 있는 메뉴 개수만큼 판넬을 만드는 함수를 개발하였습�
 
 ## 프로젝트 관련 자료
 [발표 PPT](https://docs.google.com/presentation/d/1p_OsoSNuF4TKWMCrN96TpJ6Qjzo4gyFD)  
-[시연 동영상](https://drive.google.com/drive/folders/1Bnl7pMzE9mVtjxdJEZ7Ls_EgKEgRhBSn)  
-[프로젝트 ERD](https://drive.google.com/drive/folders/1Bnl7pMzE9mVtjxdJEZ7Ls_EgKEgRhBSn)  
-[화면 설계 및 기능 명세서](https://drive.google.com/drive/folders/1Bnl7pMzE9mVtjxdJEZ7Ls_EgKEgRhBSn)  
+[시연 동영상](https://drive.google.com/file/d/1kVO33m2BcuHPl55LmJaiDhpm9jkdNTV2/view?usp=drive_link)  
+[프로젝트 ERD](https://drive.google.com/file/d/1_jbFh9ITI2UFuWUXM-cUNz6_ogDomROj/view?usp=drive_link)  
+[화면 설계 및 기능 명세서](https://drive.google.com/file/d/1gH8DZr0jSiPdgbyox1OvXi-JcP60-smG/view?usp=drive_link)  
 [프로젝트 개발 계획서](https://docs.google.com/document/d/1-Eby-sEILRy170nCE783xbKEqkqOgwbw)  
  
