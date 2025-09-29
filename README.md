@@ -83,51 +83,9 @@ DB에 있는 메뉴 개수만큼 판넬을 만드는 함수를 개발하였습�
 이후 다른 페이지를 만들 때도 이 함수를 참조하여 개발하니  
 개발 속도 및 코드 가독성을 챙기고 DB만 관리하면 판넬은 자동으로 생성되니 유지보수성을 챙길 수 있었습니다.  
 
-## 프로젝트 관련 자료
-[시연 동영상(Youtube로 이동)](https://www.youtube.com/watch?v=EI1n9bDk5Hs)  
-<details>
-<summary><strong>📸 전체 화면 미리보기</strong> (클릭하여 보기)</summary>
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b1f8efcf-b7ba-4fc7-9c8d-9b4a92f717e8" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c2c845e4-255e-4449-8362-f5978cdb5388" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/33d56c5c-f5c9-4308-97e4-037fbff68833" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7653998d-f7aa-445c-9214-eeb8f2a77160" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/08c22b50-0366-49bf-99c0-af63788e7d21" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2d4c9652-ba6b-40ce-92ac-9713a2ae1913" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/aa23f670-1130-452a-a300-6704a12cf519" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8c76a899-c54c-470c-a2ee-462c71458099" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/66b2265f-2918-44fd-aeab-d1cb6105a38f" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/992f1b16-f156-45da-a7c9-eb04476f6070" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ee634bef-46bc-40bc-9709-b0d070ff5021" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/387f4718-a7d2-48c2-9213-b058243295a2" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/57afe6cc-9f34-4afb-8f2e-f1ebe73a5e28" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4402c165-1721-4a57-8629-847726825650" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/934382c7-3808-4142-b088-028998c55163" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3f67ccc2-939c-406c-9e56-b1755da6a238" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/37e8fa49-6c79-469d-93dd-efc4b70c3de9" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c466c3c2-b2d7-4aa3-abd0-16670bef8c4b" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/68cd6c5f-aff0-4d0e-a49a-5bd86b93d154" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8127af86-5fe2-4c23-a90e-61425a3b8cdb" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/514ccaae-2d5d-48ab-949d-d77334d65336" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/974607d4-7f71-48fd-b05b-db61291bea35" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/67905b24-5f4f-47d3-9293-6e4b59cdba37" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9fdd6683-b848-40f8-a247-4604cbe0fbac" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d49283cc-fed5-49f0-a27c-550ed066aa70" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2bdae283-9fd5-4ad5-9b45-99d1580d8d5c" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9596b524-e1ed-407b-9f84-e7a25288814a" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/248de305-e1aa-44a5-9e1d-14f1362b9e7a" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b32297d8-0cb8-445b-85cc-e9532a2574e7" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/17f9cbbb-9bdf-4612-a828-f7ca430dcc17" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b4b09935-3583-4eca-9190-13aea9b22622" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6544f0cd-3039-45e5-9dc2-ae076971bae2" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/abff8633-1579-4d76-a181-686c58570ee3" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/56b84325-49f7-4294-9e9b-cccb9bfbc54e" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2b6d5cf1-3969-4152-9fc8-16a95151b5e5" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c9f452aa-a60d-4e6f-b70c-ffbe4c702f37" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/edbb4550-0764-4ec6-b36b-57a99373689c" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/59495eff-58a1-431e-8188-082d5837add9" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ecfd0be6-8afa-408f-a9cb-64acd192fe82" />
-</details>
+## 프로젝트 관련 자료 
+[시연 동영상](https://drive.google.com/file/d/1kVO33m2BcuHPl55LmJaiDhpm9jkdNTV2/view?usp=drive_link)
+[발표 PPT](https://drive.google.com/file/d/1kVO33m2BcuHPl55LmJaiDhpm9jkdNTV2/view?usp=drive_link)
 [프로젝트 ERD](https://drive.google.com/file/d/1_jbFh9ITI2UFuWUXM-cUNz6_ogDomROj/view?usp=drive_link)  
 [화면 설계 및 기능 명세서](https://drive.google.com/file/d/1gH8DZr0jSiPdgbyox1OvXi-JcP60-smG/view?usp=drive_link)  
 [프로젝트 개발 계획서](https://docs.google.com/document/d/1-Eby-sEILRy170nCE783xbKEqkqOgwbw)  
