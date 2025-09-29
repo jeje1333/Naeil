@@ -84,6 +84,7 @@ DB에 있는 메뉴 개수만큼 판넬을 만드는 함수를 개발하였습�
 개발 속도 및 코드 가독성을 챙기고 DB만 관리하면 판넬은 자동으로 생성되니 유지보수성을 챙길 수 있었습니다.  
 
 ## 프로젝트 관련 자료
+[![시연 동영상](http://img.youtube.com/vi/EI1n9bDk5Hs/0.jpg)](https://youtu.be/EI1n9bDk5Hs)
 [발표 PPT](https://docs.google.com/presentation/d/1p_OsoSNuF4TKWMCrN96TpJ6Qjzo4gyFD)  
 [시연 동영상](https://drive.google.com/file/d/1kVO33m2BcuHPl55LmJaiDhpm9jkdNTV2/view?usp=drive_link)  
 [프로젝트 ERD](https://drive.google.com/file/d/1_jbFh9ITI2UFuWUXM-cUNz6_ogDomROj/view?usp=drive_link)  
